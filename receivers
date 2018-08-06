@@ -1,0 +1,4 @@
+./project receiver IPC_fifo 100
+./project receiver IPC_M 100
+./project receiver IPC_shm 100
+./project receiver IPC_socket 100
