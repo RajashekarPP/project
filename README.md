@@ -1,2 +1,1 @@
-# project
-testing of all the git commands 
+IPC mechanisms for transmission of data at given max speed

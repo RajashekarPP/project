@@ -1,0 +1,6 @@
+./project  IPC_pipe 100
+./project sender IPC_fifo 100
+./project sender IPC_M 100
+./project sender IPC_shm 100
+./project sender IPC_socket 100
+
